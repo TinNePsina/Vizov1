@@ -20,3 +20,6 @@
 2. **Клонируйте репозиторий**  
    ```bash
    git clone https://github.com/TinNePsina/Vizov1.git
+3. **Запустите проект**
+   ```bash
+   dotnet run
